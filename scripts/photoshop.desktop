@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Adobe Photoshop CC 2018
+Exec=photoshopcc2018
+Icon=photoshop
+Terminal=false
+Categories=Graphics;2DGraphics;RasterGraphics;
+StartupWMClass=photoshop.exe
